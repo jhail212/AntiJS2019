@@ -7,6 +7,10 @@
 
 
 # Cara install <br>
+# Install lib 2019 <br>
+# git clone https://github.com/jhail212/Lib-JhaiLBOTS <br>
+
+
 
 apt-get update -y <br>
 pkg install python -y <br>
